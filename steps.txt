@@ -1,0 +1,6 @@
+Step 1:sudo apt-get install flex
+Step 2: flex filename.l or flex filename.lex depending on the extension file is saved with 
+Step 3: gcc lex.yy.c 
+Step 4: ./a.out inputfile.txt outputfile.txt
+Step 5: Provide the input to program in case it is required
+
